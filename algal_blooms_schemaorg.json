@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Algal blooms intensify in global large lakes over the past two decades",
+  "description": "Satellite-based dataset of algal bloom frequency in 1,956 large lakes worldwide from 2003 to 2022 using MODIS Aqua observations.",
+  "url": "https://zenodo.org/records/14799491",
+  "identifier": "https://doi.org/10.5281/zenodo.14799491",
+  "creator": [
+    { "@type": "Person", "name": "Ying Wang" },
+    { "@type": "Person", "name": "Dan Zhao" },
+    { "@type": "Person", "name": "R. Iestyn Woolway" },
+    { "@type": "Person", "name": "Haoran Yan" },
+    { "@type": "Person", "name": "Hans W. Paerl" },
+    { "@type": "Person", "name": "Yi Zheng" },
+    { "@type": "Person", "name": "Chunmiao Zheng" },
+    { "@type": "Person", "name": "Lian Feng" }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "datePublished": "2025",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": [
+    "Algal blooms",
+    "Lakes",
+    "Remote sensing",
+    "MODIS",
+    "Water quality"
+  ]
+}
