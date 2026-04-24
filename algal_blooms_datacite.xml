@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4">
+  
+  <identifier identifierType="DOI">10.5281/zenodo.14799491</identifier>
+
+  <creators>
+    <creator><creatorName>Wang, Ying</creatorName></creator>
+    <creator><creatorName>Zhao, Dan</creatorName></creator>
+    <creator><creatorName>Woolway, R. Iestyn</creatorName></creator>
+    <creator><creatorName>Yan, Haoran</creatorName></creator>
+    <creator><creatorName>Paerl, Hans W.</creatorName></creator>
+    <creator><creatorName>Zheng, Yi</creatorName></creator>
+    <creator><creatorName>Zheng, Chunmiao</creatorName></creator>
+    <creator><creatorName>Feng, Lian</creatorName></creator>
+  </creators>
+
+  <titles>
+    <title>Algal blooms intensify in global large lakes over the past two decades</title>
+  </titles>
+
+  <publisher>Zenodo</publisher>
+  <publicationYear>2025</publicationYear>
+
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+
+  <subjects>
+    <subject>Algal blooms</subject>
+    <subject>Lakes</subject>
+    <subject>Remote sensing</subject>
+    <subject>MODIS</subject>
+    <subject>Water quality</subject>
+  </subjects>
+
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">
+      https://zenodo.org/records/14799491
+    </alternateIdentifier>
+  </alternateIdentifiers>
+
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0
+    </rights>
+  </rightsList>
+
+  <descriptions>
+    <description descriptionType="Abstract">
+      Satellite-based dataset of algal bloom frequency in 1,956 large lakes worldwide from 2003 to 2022 using MODIS Aqua observations.
+    </description>
+  </descriptions>
+
+</resource>
